@@ -1,0 +1,1 @@
+python detect.py --weights runs/train/exp5/weights/best.pt --img 640 --conf 0.25 --source /Users/mdsaharanevan/Desktop/Yolo_scratch/yolov5/data/images
